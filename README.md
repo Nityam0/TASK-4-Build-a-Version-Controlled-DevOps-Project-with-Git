@@ -13,6 +13,5 @@ This project demonstrates Git best practices including:
 
 ## Workflow
 main → dev → feature branch → pull request → merge
-
 ## Author
 Nityam Raj
